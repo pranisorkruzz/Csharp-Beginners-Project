@@ -1,0 +1,22 @@
+Library Management System
+This is a simple command-line application built with Csharp and SQLite for managing a library's book collection. It allows you to perform basic operations like adding, viewing, updating, and removing book records.
+
+Features
+Add New Book: Add a new book record with a title and author.
+
+Display All Books: View a list of all books currently in the library, with their unique IDs.
+
+Update Book Record: Update the title and author of a book by its ID.
+
+Remove Book: Delete a book record by its ID.
+
+Input Validation: Ensures that user input for names and IDs is valid.
+
+Technologies Used
+Language: C#
+
+Framework: .NET (Console Application)
+
+Database: SQLite
+
+Database Library: Microsoft.Data.Sqlite
